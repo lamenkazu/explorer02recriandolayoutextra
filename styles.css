@@ -51,6 +51,7 @@ a{
 
 footer{
     display: grid;
+    margin-top: 80px;
 }
 
 #links a + a{
